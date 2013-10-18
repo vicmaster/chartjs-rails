@@ -1,4 +1,4 @@
-= Chartjs
+# Chartjs
 
 This gem packages the chart.js assets (JavaScripts) for the Rails 4+ 
 
