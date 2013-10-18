@@ -10,6 +10,12 @@ In your Gemfile, add:
 gem 'chartjs'
 ```
 
+Or install:
+
+```ruby
+gem install chartjs
+```
+
 ## Require Everything
 
 To require all ChartJs modules, add the following to your application.js:
