@@ -1,0 +1,1 @@
+gem "chartjs", :path => "~/Projects/Personal/chartjs/"
