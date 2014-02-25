@@ -1,6 +1,9 @@
-# Chartjs
+# Chart JS
+
+Simple HTML5 Charts using the canvas element chartjs.org
 
 This gem packages the chart.js assets (JavaScripts) for the Rails 4+ 
+
 
 [![Gem Version](https://badge.fury.io/rb/chartjs.png)](http://badge.fury.io/rb/chartjs)
 
