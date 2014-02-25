@@ -1,6 +1,9 @@
 # Chartjs
 
 This gem packages the chart.js assets (JavaScripts) for the Rails 4+ 
+[![Gem Version](https://badge.fury.io/rb/chartjs.png)](http://badge.fury.io/rb/chartjs)
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/vicmaster/chartjs-rails/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
 ## Usage
 
@@ -43,7 +46,3 @@ http://www.chartjs.org/docs/
 3. Commit your changes (`git commit -am 'Added some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
-
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/vicmaster/chartjs-rails/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
