@@ -40,25 +40,16 @@ In the spirit of free software, everyone is encouraged to help improve this proj
 
 ### Here are some ways you can contribute:
 
-by using alpha, beta, and prerelease versions
-
-by reporting bugs
-
-by suggesting new features
-
-by translating to a new language
-
-by writing or editing documentation
-
-by writing specifications
-
-by writing code (no patch is too small: fix typos, add comments, clean up inconsistent whitespace)
-
-by refactoring code
-
-by closing issues
-
-by reviewing patches
+* by using alpha, beta, and prerelease versions
+* by reporting bugs
+* by suggesting new features
+* by translating to a new language
+* by writing or editing documentation
+* by writing specifications
+* by writing code (no patch is too small: fix typos, add comments, clean up inconsistent whitespace)
+* by refactoring code
+* by closing issues
+* by reviewing patches
 
 financially
 
